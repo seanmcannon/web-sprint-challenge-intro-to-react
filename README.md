@@ -1,4 +1,4 @@
-# Intro to React Sprint Chall enge
+# Intro to React Sprint Challenge
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
